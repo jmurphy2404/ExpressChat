@@ -28,7 +28,7 @@ module.exports = function(app,io){
 
 	app.get('/chat/:id', function(req,res){
 
-		// Render the chant.html view
+		// Render the chat.html view
 		res.render('chat');
 	});
 
@@ -136,7 +136,7 @@ module.exports = function(app,io){
 	});
 };
 
-function findClientsSocket(io,roomId, namespace) {
+function findClientsSocket(io, roomId, namespace) {
 	var res = [],
 		ns = io.of(namespace ||"/");    // the default namespace is "/"
 
@@ -155,5 +155,3 @@ function findClientsSocket(io,roomId, namespace) {
 	}
 	return res;
 }
-
-
