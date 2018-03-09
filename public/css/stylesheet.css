@@ -1,7 +1,5 @@
 /*------------- Reset browser differences ------------- */
 
-
-
 * {
 	padding: 0;
 	margin: 0;
@@ -10,7 +8,6 @@
 
 /* ------------ Body styles ------------ */
 
-
 body {
 	background-color: #f0f1f3;
 	color: #667073;
@@ -18,14 +15,9 @@ body {
 }
 
 
-
-
 /* ------------ Header styles ------------ */
 
-
-
 /* ------ Home ------ */
-
 
 .homebanner {
 	height: 120px;
@@ -39,6 +31,7 @@ body {
 	font-weight: bold;
 	color:white;
 }
+
 .homebannertext span {
 	color: #d6441b;
 }
@@ -47,14 +40,13 @@ body {
 	text-decoration: none;
 	color: white;
 }
+
 #logo:visited {
 	color: white;
 }
 
 
-
 /* ------ Invite ------ */
-
 
 .banner {
 	height: 70px;
@@ -70,19 +62,15 @@ body {
 	color: white;
 	font-size: 25px;
 }
+
 .bannertext span {
 	color: #d6441b;
 }
 
 
-
-
 /* ------------ Section styles ------------ */
 
-
-
 /* ------ Home ------ */
-
 
 .homesection {
 	text-align: center;
@@ -94,6 +82,7 @@ body {
 	text-align: center;
 	margin-bottom: 120px;
 }
+
 .node #chat {
 	font-family: 'Open Sans Condensed';
 	font-weight: normal;
@@ -119,31 +108,25 @@ body {
 	margin-bottom: 70px;
 	color: #eeffff;
 }
+
 #create:visited {
 	color: #eeffff;
 	text-decoration: none;
 }
+
 #createbutton {
 	padding-top: 28px;
 }
+
 #little {
 	font-weight: normal;
 	font-size: 13px;
 }
+
 #big {
 	font-weight: bold;
 	font-size: 23px;
 }
-.tutorial{
-	margin-bottom:90px;
-}
-#tutorial {
-	color: #88bfd4;
-}
-#tutorial:visited {
-	color: #88bfd4;
-}
-
 
 
 /* ------ Connected ------*/
@@ -159,14 +142,17 @@ body {
 	box-shadow: 0px 3px 3px #e3e4e6;
 	color: #637277;
 }
+
 .connected h2 {
 	padding-top: 20px;
 }
+
 .infoConnected {
 	text-align: left;
 	float: right;
 	margin: 65px 165px 0 0;
 }
+
 #creatorImage {
 	float: left;
 	margin: 90px 0 0 140px;
@@ -219,7 +205,6 @@ body {
 }
 
 
-
 /* ------ Person Inside ------*/
 
 .personinside {
@@ -233,6 +218,7 @@ body {
 	box-shadow: 0px 3px 3px #e3e4e6;
 	color: #637277;
 }
+
 .personinside h2 {
 	padding-top: 20px;
 	width: 210px;
@@ -298,7 +284,6 @@ body {
 
 /* ------ Invite ------ */
 
-
 .invite-textfield {
 	text-align: center;
 	display: block;
@@ -310,13 +295,16 @@ body {
 	box-shadow: 0px 3px 3px #e3e4e6;
 	color: #637277;
 }
+
 .invite-textfield h2 {
 	padding-top: 80px;
 }
+
 .invite-textfield h5 {
 	 font-weight: normal;
 	 margin: 10px 0 35px;
  }
+
 .invite-textfield .link {
 	width: 600px;
 	height: 35px;
@@ -328,6 +316,7 @@ body {
 	border-radius: 4px;
 	background-color: #f0f1f3;
 }
+
 .invite-textfield #link{
 	text-decoration: none;
 	color: #637277;
@@ -348,10 +337,12 @@ body {
 	color: #637277;
 	margin-bottom: 400px;
 }
+
 .left h2 {
 	padding-top: 50px;
 	padding-bottom: 6px;
 }
+
 .left h5 {
 	font-weight: normal;
 	margin-bottom: 100px;
@@ -364,13 +355,14 @@ body {
 	height: 100px;
 	border-radius: 50%;
 }
+
 .nickname-left {
 	width: 40px;
 	overflow: hidden;
 }
 
-/* ------ Too many People ------*/
 
+/* ------ Too many People ------*/
 
 .toomanypeople {
 	text-align: center;
@@ -383,10 +375,12 @@ body {
 	box-shadow: 0px 3px 3px #e3e4e6;
 	color: #637277;
 }
+
 .toomanypeople h2 {
 	padding-top: 100px;
 	padding-bottom: 8px;
 }
+
 .toomanypeople h5 {
 	font-weight: normal;
 	margin-bottom: 100px;
@@ -397,9 +391,7 @@ body {
 }
 
 
-
 /* ------ No Messages ------ */
-
 
 .nomessages {
 	text-align: center;
@@ -413,11 +405,13 @@ body {
 	color: #637277;
 	margin-bottom: 400px;
 }
+
 .nomessages h2 {
 	padding-top: 50px;
 	overflow: hidden;
 	padding-bottom: 6px;
 }
+
 .nomessages h5 {
 	font-weight: normal;
 	margin-bottom: 100px;
@@ -438,6 +432,7 @@ body {
 	height: 100px;
 	border-radius: 50%;
 }
+
 .info {
 	text-align: left;
 	float: right;
@@ -445,14 +440,13 @@ body {
 	width: 405px;
 	overflow: hidden;
 }
+
 .nickname-chat {
 	overflow: hidden;
 }
 
 
 /* ------ Chat Screen ------ */
-
-
 
 .image {
 	clear: both;
@@ -563,6 +557,7 @@ footer {
 	background-color: white;
 	height: 130px;
 }
+
 #chatform {
 	width: 700px;
 	margin: 0 auto;
@@ -604,10 +599,7 @@ footer {
 }
 
 
-
-
 /* ---------------------- HIDE -------------------------- */
-
 
 .connected {
 	display: none;
