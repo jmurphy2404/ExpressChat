@@ -13,8 +13,8 @@
 
 body {
 	background-color: #f0f1f3;
-	color:#667073;
-	font: 16px/1.3 'Arial',sans-serif;
+	color: #667073;
+	font: 16px/1.3 'Arial', sans-serif;
 }
 
 
@@ -33,7 +33,7 @@ body {
 }
 
 .homebannertext {
-	text-align:center;
+	text-align: center;
 	padding-top: 35px;
 	font-family: 'Open Sans Condensed',serif;
 	font-weight: bold;
@@ -45,7 +45,7 @@ body {
 
 #logo {
 	text-decoration: none;
-	color:white;
+	color: white;
 }
 #logo:visited {
 	color: white;
@@ -63,12 +63,12 @@ body {
 }
 
 .bannertext {
-	text-align:center;
+	text-align: center;
 	padding-top: 15px;
 	font-family: 'Open Sans Condensed',serif;
 	font-weight: bold;
-	color:white;
-	font-size:25px;
+	color: white;
+	font-size: 25px;
 }
 .bannertext span {
 	color: #d6441b;
@@ -85,14 +85,14 @@ body {
 
 
 .homesection {
-	text-align:center;
-	margin-top:140px;
+	text-align: center;
+	margin-top: 140px;
 }
 
 .node {
 	padding-top: 20px;
-	text-align:center;
-	margin-bottom:120px;
+	text-align: center;
+	margin-bottom: 120px;
 }
 .node #chat {
 	font-family: 'Open Sans Condensed';
@@ -110,9 +110,9 @@ body {
 	width: 300px;
 	height: 100px;
 	background-color: #70b1d1;
-	text-align:center;
+	text-align: center;
 	display: block;
-	margin:0px auto;
+	margin: 0px auto;
 	border-radius: 3px;
 	box-shadow: 0px 5px 5px #e4e8e7;
 	text-decoration: none;
@@ -149,14 +149,14 @@ body {
 /* ------ Connected ------*/
 
 .connected {
-	text-align:center;
+	text-align: center;
 	display: block;
-	margin:0px auto;
+	margin: 0px auto;
 	width: 700px;
 	height: 400px;
 	background-color: #ffffff;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow: 0px 3px 3px #e3e4e6;
 	color: #637277;
 }
 .connected h2 {
@@ -176,44 +176,44 @@ body {
 }
 
 #yourName {
-	float:left;
-	padding-left:10px;
+	float: left;
+	padding-left: 10px;
 	width: 150px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow: 0px 3px 3px #e3e4e6;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
-	margin-bottom:20px;
+	box-shadow: 0px 3px 3px #e3e4e6;
+	margin-bottom: 20px;
 	overflow: hidden;
 }
 
 #yourEmail {
-	float:left;
+	float: left;
 	padding-left: 10px;
 	width: 200px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow: 0px 3px 3px #e3e4e6;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
-	margin-bottom:40px;
+	box-shadow: 0px 3px 3px #e3e4e6;
+	margin-bottom: 40px;
 }
 
 #yourEnter {
-	float:left;
+	float: left;
 	width: 110px;
 	height: 40px;
-	text-align:center;
+	text-align: center;
 	background-color: #73b4d4;
 	border: none;
 	box-shadow: 3px 3px 3px #efedee;
 	border-radius: 2px;
-	color:white;
+	color: white;
 	font-weight: bold;
 	font-size: 15px;
 }
@@ -223,14 +223,14 @@ body {
 /* ------ Person Inside ------*/
 
 .personinside {
-	text-align:center;
+	text-align: center;
 	display: block;
-	margin:0px auto;
+	margin: 0px auto;
 	width: 700px;
 	height: 400px;
 	background-color: #ffffff;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow: 0px 3px 3px #e3e4e6;
 	color: #637277;
 }
 .personinside h2 {
@@ -254,43 +254,43 @@ body {
 }
 
 #hisName {
-	float:left;
-	padding-left:10px;
+	float: left;
+	padding-left: 10px;
 	width: 150px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow: 0px 3px 3px #e3e4e6;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
-	margin-bottom:20px;
+	box-shadow: 0px 3px 3px #e3e4e6;
+	margin-bottom: 20px;
 }
 
 #hisEmail {
-	float:left;
+	float: left;
 	padding-left: 10px;
 	width: 200px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow: 0px 3px 3px #e3e4e6;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
-	margin-bottom:40px;
+	box-shadow: 0px 3px 3px #e3e4e6;
+	margin-bottom: 40px;
 }
 
 #hisEnter {
-	float:left;
+	float: left;
 	width: 110px;
 	height: 40px;
-	text-align:center;
+	text-align: center;
 	background-color: #73b4d4;
 	border: none;
 	box-shadow: 3px 3px 3px #efedee;
 	border-radius: 2px;
-	color:white;
+	color: white;
 	font-weight: bold;
 	font-size: 15px;
 }
@@ -300,14 +300,14 @@ body {
 
 
 .invite-textfield {
-	text-align:center;
+	text-align: center;
 	display: block;
-	margin:0px auto;
+	margin: 0px auto;
 	width: 750px;
 	height: 300px;
 	background-color: #ffffff;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow: 0px 3px 3px #e3e4e6;
 	color: #637277;
 }
 .invite-textfield h2 {
@@ -320,11 +320,11 @@ body {
 .invite-textfield .link {
 	width: 600px;
 	height: 35px;
-	text-align:center;
+	text-align: center;
 	display: block;
-	margin:0px auto;
+	margin: 0px auto;
 	padding-top: 15px;
-	margin-bottom:120px;
+	margin-bottom: 120px;
 	border-radius: 4px;
 	background-color: #f0f1f3;
 }
@@ -337,14 +337,14 @@ body {
 /* ------ Left ------*/
 
 .left {
-	text-align:center;
+	text-align: center;
 	display: block;
-	margin:0px auto;
+	margin: 0px auto;
 	width: 750px;
 	height: 300px;
 	background-color: #ffffff;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow: 0px 3px 3px #e3e4e6;
 	color: #637277;
 	margin-bottom: 400px;
 }
@@ -373,14 +373,14 @@ body {
 
 
 .toomanypeople {
-	text-align:center;
+	text-align: center;
 	display: block;
 	margin:0px auto;
 	width: 750px;
 	height: 300px;
 	background-color: #ffffff;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow: 0px 3px 3px #e3e4e6;
 	color: #637277;
 }
 .toomanypeople h2 {
@@ -402,7 +402,7 @@ body {
 
 
 .nomessages {
-	text-align:center;
+	text-align: center;
 	display: block;
 	margin:0px auto;
 	width: 750px;
@@ -455,11 +455,11 @@ body {
 
 
 .image {
-	clear:both;
-	float:left;
+	clear: both;
+	float: left;
 	height: 160px;
 	width: 80px;
-	text-align:center;
+	text-align: center;
 	overflow: hidden;
 }
 
@@ -471,7 +471,7 @@ body {
 }
 
 .body {
-	text-align:center;
+	text-align: center;
 	width: 40%;
 	display: block;
 	margin:0px auto 650px;
@@ -481,31 +481,31 @@ body {
 
 .chats {
 	list-style-type: none;
-	margin-top:10px;
+	margin-top: 10px;
 }
 
 .me {
-	clear:both;
-	float:left;
-	margin-bottom:10px;
+	clear: both;
+	float: left;
+	margin-bottom: 10px;
 }
 
 .you {
-	clear:both;
-	float:right;
-	margin-bottom:10px;
+	clear: both;
+	float: right;
+	margin-bottom: 10px;
 }
 
 .you .image{
-	float:right;
+	float: right;
 }
 
 .chats .me p {
-	text-align:left;
+	text-align: left;
 	float: left;
 	display: inline-block;
 	margin-left: 20px;
-	margin-bottom:30px;
+	margin-bottom: 30px;
 	padding: 25px 34px;
 	min-width: 160px;
 	min-height: 10px;
@@ -519,11 +519,11 @@ body {
 }
 
 .chats .you p {
-	text-align:left;
+	text-align: left;
 	float: left;
 	display: inline-block;
-	margin-right:20px;
-	margin-bottom:30px;
+	margin-right: 20px;
+	margin-bottom: 30px;
 	padding: 25px 34px;
 	min-width: 160px;
 	min-height: 10px;
@@ -555,16 +555,16 @@ body {
 /* ------------ Footer styles ------------ */
 
 footer {
-	position:fixed;
-	bottom:0;
-	left:0;
-	width:100%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
 	padding-top: 30px;
 	background-color: white;
 	height: 130px;
 }
 #chatform {
-	width:700px;
+	width: 700px;
 	margin: 0 auto;
 	background-color: white;
 }
@@ -573,7 +573,7 @@ footer {
 	width: 550px;
 	height: 80px;
 	display: block;
-	float:left;
+	float: left;
 	margin: 0 auto;
 	background-color: #f9f9f9;
 	border: 1px solid #cccccc;
@@ -581,26 +581,26 @@ footer {
 	padding-left: 20px;
 	padding-top: 20px;
 	resize: none;
-	font:inherit;
-	color:inherit;
+	font: inherit;
+	color: inherit;
 }
 
 #submit {
 	width: 110px;
 	height: 60px;
-	float:right;
-	text-align:center;
+	float: right;
+	text-align: center;
 	background-color: #73b4d4;
 	display: block;
 	margin: 0 auto;
 	border: none;
 	box-shadow: 3px 3px 3px #efedee;
 	border-radius: 2px;
-	color:white;
+	color: white;
 	font-weight: bold;
 	font-size: 17px;
 	outline: none;
-	cursor:pointer;
+	cursor: pointer;
 }
 
 
@@ -618,28 +618,28 @@ footer {
 }
 
 .invite-textfield {
-	display:none;
+	display: none;
 }
 
 .left {
-	display:none;
+	display: none;
 }
 
 .toomanypeople {
-	display:none;
+	display: none;
 }
 
 .nomessages{
-	display:none;
+	display: none;
 }
 
 footer {
-	display:none;
+	display: none;
 }
 
 .chatscreen{
-	display:none;
-	width:700px;
+	display: none;
+	width: 700px;
 	margin: 0 auto 200px;
-	overflow:hidden;
+	overflow: hidden;
 }

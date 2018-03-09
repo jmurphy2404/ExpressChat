@@ -1,7 +1,7 @@
 {
   "name": "NodeChatSystem",
   "version": "0.0.2",
-  "description": "Realtime chat system for Tutorialzine.com tutorial by Nikolay Anastasov",
+  "description": "Realtime chat system from Tutorialzine.com tutorial by Nikolay Anastasov",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
